@@ -1,0 +1,350 @@
+body {
+	 font-family: "Roboto", sans-serif;
+	 background-color: whitesmoke;
+}
+
+header {
+	margin-top: 21px;
+	margin-left: 137px;
+}
+
+nav {
+	display: inline-block;
+}
+
+.p {
+	display: inline-block;
+	color: #000000;
+	font-size: 11px;
+	font-weight: 700px;
+	line-height: 12.89px;
+}
+
+.p1 {
+	margin-left: 35px;
+	display: inline-block;
+	color: #000000;
+	font-size: 11px;
+	font-weight: 700px;
+	line-height: 12.89px;
+}
+
+.p2 {
+	margin-left: 35px;
+	display: inline-block;
+	color: #000000;
+	font-size: 11px;
+	font-weight: 700px;
+	line-height: 12.89px;
+}
+
+.p3 {
+	margin-left: 35px;
+	display: inline-block;
+	color: #000000;
+	font-size: 11px;
+	font-weight: 700px;
+	line-height: 12.89px;
+}
+
+.women {
+	width: 32px;
+	height: 32px;
+	display: inline;
+	vertical-align: middle;
+	margin-left: 29px;
+}
+
+h2{
+	font-size: 24px;
+	font-weight: 700px;
+	margin-top: 33px;
+	display: block;
+	margin-left: 137px;
+}
+
+.section1 {
+	margin-top: 27px;
+	margin-left: 138px;
+}
+
+
+
+div {
+	display: inline-block;
+	height: 357px;
+	width: 362px;
+	background-color: #FFFFFF;
+}
+
+.div {
+	position: relative;
+}
+
+.p4 {
+	top: 37px;
+	left: 40px;
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 700px;
+}
+
+.p5 {
+	position: absolute;
+	color: #8A8787;
+	font-size: 10px;
+	font-weight: 700px;
+	top: 254px;
+	left: 37px;
+}
+
+.clock {
+	width: 16px;
+	height: 16px;
+	top: 301px;
+	left: 40px;
+	position: absolute;
+}
+
+.p10 {
+	color: #8A8787;
+	left: 67px;
+	font-size: 10px;
+	font-weight: 700px;
+	top: 304px;
+	position: absolute;
+}
+
+.div2 {
+	margin-left: 40px;
+	position: relative;
+}
+
+.p6 {
+	position: absolute;
+	top: 37px;
+	left: 40px;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 700px;
+}
+
+.p7 {
+	position: absolute;
+	color: #8A8787;
+	font-size: 10px;
+	font-weight: 700px;
+	top: 254px;
+	left: 37px;
+}
+
+ 
+
+.div3 {
+	margin-left: 40px;
+	position: relative;
+}
+
+.p8 {
+	color: #FFFFFF;
+	position: absolute;
+	font-size: 20px;
+	font-weight: 700px;
+	top: 37px;
+	left: 41px;
+}
+
+.p9 {
+	position: absolute;
+	color: #8A8787;
+	font-size: 10px;
+	font-weight: 700px;
+	top: 254px;
+	left: 37px;
+}
+
+h3 {
+	color: #000000;
+	font-size: 24px;
+	font-weight: 800px;
+	margin-left: 140px;
+	margin-top: 57px;
+}
+
+.section2 {
+	margin-left: 138px;
+	margin-top: 30px;
+	position: relative;
+	width: 100%;
+	height: 938px;
+}
+
+.bridge {
+	position: relative;
+	display: inline-block;
+	position: absolute;
+}
+
+.p11 {
+	position: absolute;
+	top: 203px;
+	left: 278px;
+	color: #FFFFFF;	
+	font-size: 20px;
+	font-weight: 700px;
+	display: inline-block;
+}
+
+.forest {
+	left: 803px;
+	position: absolute;
+}
+
+.mountain {
+	position: absolute;
+	top: 472px;
+	left: 0px;
+}
+
+.elephant {
+	position: absolute;
+	left: 803px;
+	top: 310px;
+}
+
+.scyscraper {
+	position: absolute;
+	left: 803px;
+	top: 625px;
+}
+
+.p12 {
+	position: absolute;
+	top: 59px;
+	left: 137px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p13 {
+	position: absolute;
+	top: 87px;
+	left: 137px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p14 {
+	position: absolute;
+	top: 115px;
+	left: 137px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p15 {
+	position: absolute;
+	top: 143px;
+	left: 137px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p16 {
+	position: absolute;
+	top: 59px;
+	left: 266px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p17 {
+	position: absolute;
+	top: 87px;
+	left: 266px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p18 {
+	position: absolute;
+	top: 115px;
+	left: 266px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p19 {
+	position: absolute;
+	top: 143px;
+	left: 266px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p20 {
+	position: absolute;
+	top: 59px;
+	left: 417px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p21 {
+	position: absolute;
+	top: 87px;
+	left: 417px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p22 {
+	position: absolute;
+	top: 115px;
+	left: 417px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p23 {
+	position: absolute;
+	top: 143px;
+	left: 417px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+.p24 {
+	position: absolute;
+	top: 59px;
+	left: 599px;
+	color: #818687;
+	font-size: 12px;
+	font-weight: 700px;
+}
+
+footer {
+	background-color: #243043;
+	width: 100%;
+	height: 201px;
+	position: relative;
+}
+
+.owl {
+	position: absolute;
+	top: 58px;
+	left: 1264px;
+}
